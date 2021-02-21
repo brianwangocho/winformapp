@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ScanTool/1.0.0": {
+        "dependencies": {
+          "GdPicture.NET.14": "14.1.0.104"
+        },
+        "runtime": {
+          "ScanTool.dll": {}
+        }
+      },
+      "GdPicture.NET.14/14.1.0.104": {
+        "runtime": {
+          "GdPicture.NET.14.dll": {
+            "assemblyVersion": "14.1.0.104",
+            "fileVersion": "14.1.0.104"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScanTool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GdPicture.NET.14/14.1.0.104": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

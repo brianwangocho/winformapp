@@ -1,0 +1,7 @@
+C:\Users\wangocho\source\repos\ScanTool\ScanTool\bin\publish\ScanTool.exe
+C:\Users\wangocho\source\repos\ScanTool\ScanTool\bin\publish\ScanTool.dll
+C:\Users\wangocho\source\repos\ScanTool\ScanTool\bin\publish\ScanTool.deps.json
+C:\Users\wangocho\source\repos\ScanTool\ScanTool\bin\publish\ScanTool.runtimeconfig.json
+C:\Users\wangocho\source\repos\ScanTool\ScanTool\bin\publish\ScanTool.pdb
+C:\Users\wangocho\source\repos\ScanTool\ScanTool\bin\publish\GdPicture.NET.14.dll
+C:\Users\wangocho\source\repos\ScanTool\ScanTool\bin\publish\GdPicture.NET.14.xml
